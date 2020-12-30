@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMShelter</title>
+    <script src="boards.js"></script>
+    <script src="articles.js"></script>
+    <script src="schedules.js"></script>
+    <script src="common.js"></script>
+    <script src="caleandar.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="caleandar.css">
+</head>
+<body>
+    <div id="wrap">
+        <ul id="boardList"><li>Schedule</li></ul>
+        <ul id="articleList"></ul>
+        <div id="content"></div>
+        <ul id="pagenation">
+            <li onclick="next()">NEXT</li>
+            <li onclick="prev()">PREV</li>
+        </ul>
+    </div>
+</body>
+</html>
