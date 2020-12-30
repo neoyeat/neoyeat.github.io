@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ERROR | SHINSEGAE</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta property="og:title" content=""/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content=""/>
+
+    <link rel="stylesheet" type="text/css" href="/resources/site/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/resources/site/css/etc/error.css">
+</head>
+<body>
+	<div id="WRAP">
+	    <div id="SERVICE">
+	        <div id="ERROR" class="section">
+	            <div class="top">
+	                <div class="img"></div>
+	                <p class="kr_m_500">
+	                    서비스 이용에 불편을 드려 죄송합니다.<br>
+	                    일시적인 장애로 인해 요청하신 작업을 수행할 수 없습니다.
+	                </p>
+	            </div>
+	            <div class="area">
+	                <p class="kr_g_600">
+	                    잠시 후 다시 이용해주시기 바랍니다.<br>
+	                    빠른 시간 내에 정상적인 서비스를 제공할 수 있도록 노력하겠습니다.
+	                </p>
+	            </div>
+	            <div class="btn_area">
+	                <a href="/index.do" class="btn gu_btn_black" title="홈으로 바로가기"><span class="kr_g_600">홈으로</span></a>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+</body>
+</html>
