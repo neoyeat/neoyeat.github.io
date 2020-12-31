@@ -1,0 +1,1 @@
+const boards=[{"Name":"StaffDiary","BoardId":10027},{"Name":"FromStar","BoardId":10028},{"Name":"Notice","BoardId":10025}]
